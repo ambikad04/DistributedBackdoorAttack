@@ -22,8 +22,8 @@ This project demonstrates how Federated Learning (FL) behaves under a **Distribu
 ### **Installation Steps**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ambikad04/FL-DistributedBackdoorAttack.git  
-   cd FL-DistributedBackdoorAttack  
+   git clone https://github.com/ambikad04/DistributedBackdoorAttack.git  
+   cd DistributedBackdoorAttack  
    ```  
 
 2. Install dependencies:  
@@ -37,7 +37,7 @@ This project demonstrates how Federated Learning (FL) behaves under a **Distribu
 
 1. Run the script:  
    ```bash
-   python FL-DistributedBackdoorAttack.py  
+   python DistributedBackdoorAttack.py  
    ```  
 
 2. Customize parameters:  
